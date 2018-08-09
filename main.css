@@ -1,0 +1,55 @@
+.inline {
+    display: inline;
+   
+    
+}
+.col-xs-12{
+    
+    text-align: center;
+    
+}
+.container{
+    
+    padding-top: 10px;
+}
+#top{
+    
+    background: url(aerial.jpg) ;
+    background-size: 100%;
+}
+
+.rowBlock{
+    
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#firstLogo1{
+
+    width:  80% !important;
+    height: 80% !important;
+    overflow: hidden;
+  
+}
+
+
+.rowSpace{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: azure;
+}
+
+#signuprow{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+}
+#dupa{
+    display: flex;
+    justify-content: center;
+}
+
+.whiteText{
+    color:white;
+    
+}
